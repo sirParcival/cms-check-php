@@ -1,2 +1,2 @@
-# cms-chec-php
-Php script for checking website cms 
+# cms-check-php
+php script for checking website cms 
