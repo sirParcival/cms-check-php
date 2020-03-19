@@ -36,16 +36,28 @@ function download_file(){
     // echo $fileip;
     }
 download_file();
-
+//BY $FILENAME WE GET TO FILE 
 $filename = 'downloaded/magecloud.agency';
-$searchfor = 'wp-content';
+
+
+$check_list=array("1"=>"wp-content","2"=>"MageCloud","3"=>"blue");
+
+$el_list_id = 1;
+
 $fh = fopen($filename, 'r');
 $olddata = fread($fh, filesize($filename));
-if(strpos($olddata, $searchfor)) {
-    echo 'CMS WORDPRESS';
+
+for ($el_list_id = 1; $el_list_id <= 10; $el_list_id++) {
+    echo $el_list_id;
 }
-else {
-    echo 'SHIT!';
-}
+// if(strpos($olddata, $check_list[$el_list_id])) {
+//     echo 'CMS WORDPRESS';
+// }
+// elseif (strpos($olddata, $check_list[2])) {
+//     echo 'Ok';
+// }
+// else {
+//     echo 'SHIT!';
+// }
 fclose($fh);
 ?> 

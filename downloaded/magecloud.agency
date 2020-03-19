@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js no-svg">
+<head>
+<link rel="shortcut icon" href="https://magecloud.agency/wp-content/themes/magecloudtheme/favicon.ico" />
+			<title>Magento development and consulting. Based in Chester.&#10084; Delivered Worldwide.&#129412;</title>
+				<meta name="description" content="We built&#128187; and support Magento stores from 2008. &#128175;Top Rated Magento agency on Upwork. ">
+	<!-- SEO Start -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://magecloud.agency">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Magento development and consulting. Based in Chester.&#10084; Delivered Worldwide.&#129412;">
+<meta property="og:description" content="We built&#128187; and support Magento stores from 2008. &#128175;Top Rated Magento agency on Upwork. ">
+<meta property="og:url" content="">
+<meta property="og:site_name" content="MageCloud">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="We built&#128187; and support Magento stores from 2008. &#128175;Top Rated Magento agency on Upwork. ">
+<meta name="twitter:title" content="Magento development and consulting. Based in Chester.&#10084; Delivered Worldwide.&#129412;">
+<!-- SEO End-->
+	
+	
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<!-- Add the slick-theme.css if you want default styling -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+<!-- Add the slick-theme.css if you want default styling -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://magecloud.agency/wp-content/themes/magecloudtheme/style.css?ver=1.4">
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/magecloud.agency\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://magecloud.agency/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://magecloud.agency/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' media='all' />
+<link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css'  href='//magecloud.agency/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=5.2.5' media='all' />
+<link rel='stylesheet' id='a3a3_lazy_load-css'  href='//magecloud.agency/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1564473138' media='all' />
+<script type='text/javascript' src='https://magecloud.agency/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://magecloud.agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://magecloud.agency/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://magecloud.agency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmagecloud.agency%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://magecloud.agency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmagecloud.agency%2F&#038;format=xml" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5HMNDX8');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body data-rsssl=1 class="home page-template-default page page-id-2 sample-page">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HMNDX8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+<nav>
+	<a href="/"><img src="https://magecloud.agency/wp-content/themes/magecloudtheme/images/logo.png" alt=“UKFast Magento agency partner. Amazon AWS &amp; Google Cloud Magento partner” title=“UKFast Magento agency partner. Amazon AWS &amp; Google Cloud Magento partner”/></a>
+	<ul class="menu"><li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-106"><a href="https://magecloud.agency/" aria-current="page">Home</a></li>
+<li id="menu-item-1676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1676"><a href="https://magecloud.agency/category/portfolio/">Portfolio</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339"><a href="https://magecloud.agency/migration-to-magento-2/">Migration to Magento 2</a></li>
+	<li id="menu-item-337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-337"><a href="https://magecloud.agency/magento-design/">Magento Design</a></li>
+	<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"><a href="https://magecloud.agency/magento-site-audit/">Magento Site Audit</a></li>
+	<li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="https://magecloud.agency/magento-development/">Magento Development</a></li>
+	<li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="https://magecloud.agency/magento-speed-optimization/">Magento Speed Optimization</a></li>
+	<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="https://magecloud.agency/magento-secure-review/">Magento Secure Review</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://magecloud.agency/magento-maintenance/">Magento Maintenance</a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://magecloud.agency/magento-seo-sem/">Magento SEO/SEM</a></li>
+</ul>
+</li>
+<li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="https://magecloud.agency/aboutus/">About Us</a></li>
+<li id="menu-item-1703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1703"><a href="https://magecloud.agency/category/blog/">Blog</a></li>
+<li id="menu-item-1696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1696"><a href="https://magecloud.agency/contacts/">Contact Us</a></li>
+</ul>	<ul class="social">
+        <li class="facebook"><a href="https://www.facebook.com/magecloud.net"><i class="fab fa-facebook-f"></i></a></li>
+        <li class="twitter"><a href="https://twitter.com/Magecloud_net"><i class="fab fa-twitter"></i></a></li>
+        <li class="linkedin"><a href="https://www.linkedin.com/company/magecloud"><i class="fab fa-linkedin-in"></i></a></li>
+    </ul>
+    <div class="hamburger">
+		<div class="lines"><span class="line"></span><span class="line"></span><span class="line"></span></div>
+	</div>
+</nav>
+<div class="header_background" style="background: url(https://magecloud.agency/wp-content/uploads/2019/09/home-top-rated-agency-2.jpg);">
+    <div class="overlay"></div>
+    <div class="divider rotate_180"><svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" width="1920" height="217" viewBox="0 0 1920 217">
+            <g fill-rule="evenodd" transform="matrix(-1 0 0 1 1920 0)">
+                <path d="M0,57.46875 C203.364583,135.217754 494.835938,156.564108 874.414062,121.507813 C1192.61198,-13.9827666 1541.14063,-35.3291208 1920,57.46875 L1920,207 L0,207 L0,57.46875 Z" opacity=".3"></path>
+                <path d="M0,79 C292.46875,165.453125 612.46875,165.453125 960,79 C1307.53125,-7.453125 1627.53125,-7.453125 1920,79 L1920,207 L0,207 L0,79 Z" opacity=".6"></path>
+                <path d="M0,89 C288.713542,146.786458 608.713542,146.786458 960,89 C1311.28646,31.2135417 1631.28646,31.2135417 1920,89 L1920,217 L0,217 L0,89 Z"></path>
+            </g>
+        </svg>
+    </div>
+</div>
+<div class="headertext">
+	<h1>Top Rated Support <br> for Your Magento Store </h1>
+    <div class="tagline">We provide full-stack Magento development and support service with a primary focus on month-by-month improvements to store resulting in better performance, rankings and revenue.</div>
+    <div class="button_row">
+    <div class="button">
+		<a href="/aboutus/#howitworks" class="button_blue">How it works</a>
+	</div>
+	<div class="button">
+		<a href="/category/portfolio/" class="button_blue">Our Projects </a>
+	</div>
+	</div>
+</div>
+</header>
+<!-- HEADER end -->
+
+    <div class="container_full block_gray main_blockpartners">
+        <div class="container">
+            <ul class="main_blockpartners_list">
+                                    <li>
+                    	<img src="https://magecloud.agency/wp-content/uploads/2019/10/upwork.png" alt="Upwork" title="Upwork">
+                    </li>
+                                    <li>
+                    	<img src="https://magecloud.agency/wp-content/uploads/2019/10/google.png" alt="Google Cloud" title="Google Cloud">
+                    </li>
+                                    <li>
+                    	<img src="https://magecloud.agency/wp-content/uploads/2019/10/amazon.png" alt="Amazon" title="Amazon">
+                    </li>
+                                    <li>
+                    	<img src="https://magecloud.agency/wp-content/uploads/2019/10/magento.png" alt="Magento" title="Magento">
+                    </li>
+                                    <li>
+                    	<img src="https://magecloud.agency/wp-content/uploads/2019/10/ukfast.png" alt="UKFAST" title="UKFAST">
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+<div class="container_full main_blockpromo">
+	<div class="container">
+
+	<div class="main_blockpromo_inner">
+		<div class="main_blockpromo_inner_img">
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/393099854" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+		</div>
+		<div class="main_blockpromo_inner_text">
+			<h2>About MageCloud</h2>
+<p>We are an agency with 20 professionals specializing in Magento development and we’re proud to be certified Magento experts.</p>
+<p>We have been working on developing and promoting eCommerce businesses for almost 10+ years and have built and managed multiple eCommerce stores that successfully generated millions of dollars on an annual basis in very competitive markets.</p>
+				</div>
+			</div>
+
+	</div>
+	<div class="container">
+		<div class="main_blockpromo_inner">
+			<div class="main_blockpromo_inner_text">
+				<h2>Our Story</h2>
+<p><span data-v-05efe60e=""><span class="pre-wrap" data-v-4d61ea71="" data-v-05efe60e="">Back in 2014 we started MageCloud.net and became Amazon AWS and Google Cloud technical partner and solution provider for Magento. Now, we’re proud to be certified Magento developers and core Magento contributors. </span></span><span data-v-05efe60e=""><span class="pre-wrap" data-v-4d61ea71="" data-v-05efe60e="">Our team of 20 professionals provides eCommerce development services, Design services and Full-service digital marketing solutions.</span></span></p>
+				<div class="button_bluetowhite"><a href="/aboutus/">Learn more</a></div>
+			</div>
+			<div class="main_blockpromo_inner_img"><img src="https://magecloud.agency/wp-content/uploads/2019/09/team.jpg" alt="Dedicated Magento development team" title="Dedicated Magento development team"/></div>
+		</div>
+	</div>
+</div>
+
+<div class="container_full main_blockwedo block_gray">
+	<div class="container">
+		<div class="text_center">
+			<h2>Our Services</h2>
+			<p><p>We combine all required services and skills in one place to get your store<br />
+well-optimized for the best possible speed, marketing and conversions needs.</p>
+</p>
+		</div>
+		<ul class="main_blockwedo_list">
+						<li>
+				<div class="main_blockwedo_list_img">
+					<a href="https://magecloud.agency/migration-to-magento-2/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Migration-to-Magento-2.png" alt="Migration to Magento 2" title="Migration to Magento 2"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="https://magecloud.agency/migration-to-magento-2/"><h5>Migration to Magento 2</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Migration to Magento 2</div>
+			</li>
+            			<li>
+				<div class="main_blockwedo_list_img">
+					<a href="https://magecloud.agency/magento-site-audit/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Magento-Site-Audit.png" alt="Magento Site Audit" title="Magento Site Audit"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="https://magecloud.agency/magento-site-audit/"><h5>Magento Site Audit</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Magento Site Audit</div>
+			</li>
+            			<li>
+				<div class="main_blockwedo_list_img">
+					<a href="https://magecloud.agency/magento-design/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Magento-Design.png" alt="Magento Design" title="Magento Design"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="https://magecloud.agency/magento-design/"><h5>Magento Design</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Magento Design</div>
+			</li>
+            			<li>
+				<div class="main_blockwedo_list_img">
+					<a href="/magento-development/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Magento-Development.png" alt="Magento Development" title="Magento Development"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="/magento-development/"><h5>Magento Development</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Magento Development</div>
+			</li>
+            			<li>
+				<div class="main_blockwedo_list_img">
+					<a href="https://magecloud.agency/magento-seo-sem/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Magento-SEM-optimization.png" alt="Magento SEO/SEM" title="Magento SEO/SEM"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="https://magecloud.agency/magento-seo-sem/"><h5>Magento SEO/SEM</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Magento SEO/SEM</div>
+			</li>
+            			<li>
+				<div class="main_blockwedo_list_img">
+					<a href="https://magecloud.agency/magento-speed-optimization/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Magento-Speed-Optimization.png" alt="Magento Speed Optimization" title="Magento Speed Optimization"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="https://magecloud.agency/magento-speed-optimization/"><h5>Magento Speed Optimization</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Magento Speed Optimization</div>
+			</li>
+            			<li>
+				<div class="main_blockwedo_list_img">
+					<a href="https://magecloud.agency/magento-secure-review/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Magento-Security-Review.png" alt="Magento Security Review" title="Magento Security Review"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="https://magecloud.agency/magento-secure-review/"><h5>Magento Security Review</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Magento Security Review</div>
+			</li>
+            			<li>
+				<div class="main_blockwedo_list_img">
+					<a href="https://magecloud.agency/magento-maintenance/">
+					<img src="https://magecloud.agency/wp-content/uploads/2019/08/Outgoing-Support-and-Maintenance.png" alt="Outgoing Support and Maintenance" title="Outgoing Support and Maintenance"></a></div>
+				<div class="main_blockwedo_list_title"><a href="">
+					<a href="https://magecloud.agency/magento-maintenance/"><h5>Outgoing Support and Maintenance</h5></a>
+				</div>
+
+				<div class="main_blockwedo_list_text">Outgoing Support and Maintenance</div>
+			</li>
+            		</ul>
+	</div>
+</div>
+
+
+
+
+<div class="container_full main_blockportfolio block_white">
+	<div class="text_center">
+		<h2>Recent Work</h2>
+<p>We focus on creating clean, modern &amp; responsive interfaces that not<br />only look good but also work great.</p>
+	</div>
+					<ul class="main_blockportfolio_list">
+								    				        <li style="background: url(https://magecloud.agency/wp-content/uploads/2019/07/Frame-34.jpg);">
+							<img src="https://magecloud.agency/wp-content/uploads/2019/07/Frame-34.jpg" alt="Rainey&#8217;s Closet<">
+							<a href="https://magecloud.agency/raineys-closet/">
+								<div class="main_blockportfolio_list_title">
+									<div class="main_blockportfolio_list_title1">Rainey&#8217;s Closet</div>
+									<div class="main_blockportfolio_list_title2">Magento <span>·</span> </div>
+								</div>
+							</a>
+						</li>
+								    				        <li style="background: url(https://magecloud.agency/wp-content/uploads/2019/01/Frame-37-1.jpg);">
+							<img src="https://magecloud.agency/wp-content/uploads/2019/01/Frame-37-1.jpg" alt="Bigleague Lawns<">
+							<a href="https://magecloud.agency/bigleague-lawns/">
+								<div class="main_blockportfolio_list_title">
+									<div class="main_blockportfolio_list_title1">Bigleague Lawns</div>
+									<div class="main_blockportfolio_list_title2">eCommerce <span>·</span> Magento <span>·</span> Web design <span>·</span> </div>
+								</div>
+							</a>
+						</li>
+								    				        <li style="background: url(https://magecloud.agency/wp-content/uploads/2019/09/Frame-49-1.jpg);">
+							<img src="https://magecloud.agency/wp-content/uploads/2019/09/Frame-49-1.jpg" alt="Certified Watch Store<">
+							<a href="https://magecloud.agency/certified-watch-store/">
+								<div class="main_blockportfolio_list_title">
+									<div class="main_blockportfolio_list_title1">Certified Watch Store</div>
+									<div class="main_blockportfolio_list_title2">Magento <span>·</span> Web design <span>·</span> </div>
+								</div>
+							</a>
+						</li>
+							</ul>
+					<div class="text_center">
+		<div class="button_bluetoblue"><a href="/category/portfolio/">View All Work</a></div>
+	</div>
+</div>
+<div class="container_full main_blockslider">
+	<div class="divider"><svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" width="1920" height="217" viewBox="0 0 1920 217">
+	  <g fill-rule="evenodd" transform="rotate(180 960 108.5)">
+	    <path d="M0,57.46875 C203.364583,135.217754 494.835938,156.564108 874.414062,121.507813 C1192.61198,-13.9827666 1541.14063,-35.3291208 1920,57.46875 L1920,207 L0,207 L0,57.46875 Z" opacity=".3"></path>
+	    <path d="M0,79 C292.46875,165.453125 612.46875,165.453125 960,79 C1307.53125,-7.453125 1627.53125,-7.453125 1920,79 L1920,207 L0,207 L0,79 Z" opacity=".6"></path>
+	    <path d="M0,89 C288.713542,146.786458 608.713542,146.786458 960,89 C1311.28646,31.2135417 1631.28646,31.2135417 1920,89 L1920,217 L0,217 L0,89 Z"></path>
+	  </g></svg>
+	</div>
+	<div class="container">
+		<div class="text_center"><i class="fas fa-quote-right"></i></div>
+		<ul class="main_blockslider_list">
+						<li>
+				<p>We love working with them.
+The website boasts increased functionality, which in turn has boosted revenue for the company, all thanks to MageCloud’s continued efforts. Communication is efficient, but their main strengths are their responsiveness to issues and requests and impressive skill set.</p>
+				<div class="main_blockwedo_list_img">
+					<div class="main_blockwedo_list_img_round"><img src="https://magecloud.agency/wp-content/uploads/2019/09/valuegolf_logo.jpg" alt="..."></div>
+					<h6>Owner | Value Golf</h6>
+				</div>
+			</li>
+            			<li>
+				<p>MageCloud took the time to understand my business and what I was looking for.
+MageCloud proved to be more competent than the previous developers and were very affordable and extremely responsive. </p>
+				<div class="main_blockwedo_list_img">
+					<div class="main_blockwedo_list_img_round"><img src="https://magecloud.agency/wp-content/uploads/2019/09/raineyscloset_logo.jpg" alt="..."></div>
+					<h6>Founder | Rainey's Closet Rental</h6>
+				</div>
+			</li>
+            			<li>
+				<p>A team of web experts that have gone above and beyond to make our websites successful. After a
+number of issues with our initial Magento website build (completed by another developer), the team at
+Magecloud came to our rescue and salvaged our websites. They managed to assist us with complex
+code errors and bug fixing, speed and SEO optimization. They have since completed layout and mobile
+redesign and a number of other improvements. This has resulted in an increase in traffic, revenue and
+conversion rates, which we hope only continues to increase.</p>
+				<div class="main_blockwedo_list_img">
+					<div class="main_blockwedo_list_img_round"><img src="https://magecloud.agency/wp-content/uploads/2019/09/Rebecca_PremierGroup.jpg" alt="..."></div>
+					<h6>Rebecca Eguia | Premier Group</h6>
+				</div>
+			</li>
+            			<li>
+				<p>Paul and his team are currently doing an excellent job on our Magento 2 website. The communication is
+good, we often have Skype meetings to discuss tickets and ideas to improve our website. They are also
+available to help you in case of emergencies. Paul is very honest and will never oversell you with features
+you don&#39;t need. He also has many years of expertise in e-commerce and SEO and will help you track
+down where you are missing opportunities. Their work is straight to the point. No dev drama. Their code is
+also very good and will save you money where you need. I had agencies in the past overcharging us for
+things that his dev did in only a couple of hours. Highly recommend.</p>
+				<div class="main_blockwedo_list_img">
+					<div class="main_blockwedo_list_img_round"><img src="https://magecloud.agency/wp-content/uploads/2019/09/image-4.jpg" alt="..."></div>
+					<h6>Estefani Rangel | Fusioncine</h6>
+				</div>
+			</li>
+            			<li>
+				<p>Paul & Aleks are the best Magento web developers I have worked with, and I have worked with
+quite a few now! Our website is very technically challenging and complex but no matter what
+problem we need sorting these guys have never failed. Highly recommended - thanks guys!</p>
+				<div class="main_blockwedo_list_img">
+					<div class="main_blockwedo_list_img_round"><img src="https://magecloud.agency/wp-content/uploads/2019/09/Handy-Labels.jpg" alt="..."></div>
+					<h6>Martyn Kilford | Handy Labels</h6>
+				</div>
+			</li>
+            		</ul>
+	</div>
+	<div class="divider rotate_180"><svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" width="1920" height="217" viewBox="0 0 1920 217">
+	  <g fill-rule="evenodd" transform="matrix(-1 0 0 1 1920 0)">
+	    <path d="M0,57.46875 C203.364583,135.217754 494.835938,156.564108 874.414062,121.507813 C1192.61198,-13.9827666 1541.14063,-35.3291208 1920,57.46875 L1920,207 L0,207 L0,57.46875 Z" opacity=".3"></path>
+	    <path d="M0,79 C292.46875,165.453125 612.46875,165.453125 960,79 C1307.53125,-7.453125 1627.53125,-7.453125 1920,79 L1920,207 L0,207 L0,79 Z" opacity=".6"></path>
+	    <path d="M0,89 C288.713542,146.786458 608.713542,146.786458 960,89 C1311.28646,31.2135417 1631.28646,31.2135417 1920,89 L1920,217 L0,217 L0,89 Z"></path>
+	  </g>
+	</svg>
+	</div>
+</div>
+
+<div class="container_full block_white main_blockblog">
+	<div class="container">
+		<div class="text_center">
+			<h2>From Our Blog</h2>
+<p>Share and subscribe for our daily blogs and articles so you will not miss<br />any updates on the future of technology.</p>
+		</div>
+					<ul class="main_blockblog_list">
+								    				    <li>
+						<a href="https://magecloud.agency/still-on-magento-1-but-worry-about-its-safety-join-the-webinar/">
+							<div class="main_blockblog_list_img"><img src="https://magecloud.agency/wp-content/uploads/2020/03/webinar-nexcess.jpg" alt="..."></div>
+							<h2 class="main_blockblog_list_title">Still on Magento 1,  but worry about its SAFETY? Join the WEBINAR 👇</h2>
+							<div class="main_blockblog_list_date">March 18, 2020</div>
+						</a>
+					</li>
+								    				    <li>
+						<a href="https://magecloud.agency/cloudways-promo-code/">
+							<div class="main_blockblog_list_img"><img src="https://magecloud.agency/wp-content/uploads/2020/02/cloudways-2-1.jpg" alt="..."></div>
+							<h2 class="main_blockblog_list_title">20% OFF for 2 Months of Cloudways Hosting With Exclusive Promo Code &#8220;MAGECLOUD&#8221;</h2>
+							<div class="main_blockblog_list_date">February 20, 2020</div>
+						</a>
+					</li>
+								    				    <li>
+						<a href="https://magecloud.agency/who-runs-online-shopping-world-men-vs-women/">
+							<div class="main_blockblog_list_img"><img src="https://magecloud.agency/wp-content/uploads/2019/11/men-vs-women-shopping-online.png" alt="..."></div>
+							<h2 class="main_blockblog_list_title">Who Runs Online Shopping World? Men VS. Women</h2>
+							<div class="main_blockblog_list_date">November 11, 2019</div>
+						</a>
+					</li>
+							</ul>
+					</div>
+</div>
+
+
+<div class="container_full main_blockcontact" >
+    <div class="divider">
+        <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" width="1920" height="217" viewBox="0 0 1920 217">
+            <g fill-rule="evenodd" transform="rotate(180 960 108.5)">
+                <path d="M0,57.46875 C203.364583,135.217754 494.835938,156.564108 874.414062,121.507813 C1192.61198,-13.9827666 1541.14063,-35.3291208 1920,57.46875 L1920,207 L0,207 L0,57.46875 Z" opacity=".3"></path>
+                <path d="M0,79 C292.46875,165.453125 612.46875,165.453125 960,79 C1307.53125,-7.453125 1627.53125,-7.453125 1920,79 L1920,207 L0,207 L0,79 Z" opacity=".6"></path>
+                <path d="M0,89 C288.713542,146.786458 608.713542,146.786458 960,89 C1311.28646,31.2135417 1631.28646,31.2135417 1920,89 L1920,217 L0,217 L0,89 Z"></path>
+            </g>
+        </svg>
+    </div>
+    <div class="container">
+        <div class="main_blockcontact_inner">
+            <h2>Want to learn more?</h2>
+            <div class="tagline">Let us prove our skills and provide you video review for your ecommerce site. Feel free to schedule meeting with our team.</div>
+            <div class="button">
+                <a href="/contacts/">Contact Us</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container_full location-block">
+  <div class="container">
+    <h5> Cities we operate in</h5>
+        <div class="location-list-block">
+      <ul>
+                    <li><a href="https://magecloud.agency/magento-agency-uk/">Magento agency in UK:</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-london/">Magento agency in London</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-manchester/">Magento agency in Manchester</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-newcastle/">Magento agency in Newcastle</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-liverpool/">Magento agency in Liverpool</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-bristol/">Magento agency in Bristol</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-birmingham/">Magento agency in Birmingham</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-glasgow/">Magento agency in Glasgow</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-sheffield/">Magento agency in Sheffield</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-leeds/">Magento agency in Leeds</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-belfast/">Magento agency in Belfast</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-chester/">Magento agency in Chester</a></li>
+                </ul>
+  </div>
+       <div class="location-list-block">
+      <ul>
+                    <li><a href="https://magecloud.agency/magento-agency-denmark/">Magento agency in Denmark:</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-copenhagen/">Magento agency in Copenhagen</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-aarhus/">Magento agency in Aarhus</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-odense/">Magento agency in Odense</a></li>
+                    <li><a href="https://magecloud.agency/magento-agency-aalborg/">Magento agency in Aalborg</a></li>
+                </ul>
+  </div>
+     </div>
+</div>
+<!-- BEGIN FOOTER -->
+<footer>
+<div class="footer">
+    <div class="footer_item"><img src="https://magecloud.agency/wp-content/themes/magecloudtheme/images/logo.png" alt="magecloud"/></div>
+    <div class="footer_item">
+        <ul class="social">
+            <li><a href="https://www.facebook.com/magecloud.net"><i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="https://twitter.com/Magecloud_net"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/magecloud"><i class="fab fa-linkedin-in"></i></a></li>
+        </ul>
+    </div>
+    <div class="footer_item copyright">© MageCloud. All Rights Reserved.</div>
+</div>
+</footer>
+<!-- FOOTER END -->
+</div>
+<!-- BEGIN POPUPS -->
+<!-- POPUPS END -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/magecloud.agency\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://magecloud.agency/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//magecloud.agency/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js?ver=1.9.3'></script>
+<script type='text/javascript' src='//magecloud.agency/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=1.9.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//magecloud.agency/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=1.9.3'></script>
+<script type='text/javascript' src='https://magecloud.agency/wp-includes/js/wp-embed.min.js?ver=5.2.5'></script>
+ 
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'KvwzT4XJlQ';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+ 
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.1.0/jquery-migrate.min.js" integrity="sha256-91c9XEM8yFH2Mn9fn8yQaNRvJsEruL7Hctr6JiIY7Uw=" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.1/dist/jquery.fancybox.min.js"></script>
+
+
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<script>
+  AOS.init({
+  });
+
+</script>
+<script>
+$('.filter__right .checkbox__input').change(function() {
+  if ($(this).is(':checked')) {
+    clickedId = $(this).attr("id");
+    $('.' + clickedId).show();
+  } else {
+    clickedId = $(this).attr("id");
+    $('.' + clickedId).hide();
+  }
+});
+
+if($('input[name="styagka"]').is(':checked')) {
+    $('.media-item').addClass('lol');
+}
+</script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+  $('.menu-item-has-children > a').click(function(e){
+    e.preventDefault();
+    $('.menu-item-has-children > a').next('ul').hide();
+    $(this).next('ul').show();
+  });
+$('body').click(function(e){
+    var container = $(".menu-item-has-children");
+    if (!container.is(e.target) && container.has(e.target).length === 0){
+        $(".menu-item-has-children ul").fadeOut();    
+    }
+}); 
+if (window.matchMedia("(max-width: 990px)").matches) {
+  AOS.init({
+    disable: true
+  });  
+};
+
+$('#blog_list').masonry({
+// указываем элемент-контейнер в котором расположены блоки для динамической верстки
+    itemSelector: '#blog_list li',
+// указываем класс элемента являющегося блоком в нашей сетке
+          singleMode: false,
+// true - если у вас все блоки одинаковой ширины
+    isResizable: true,
+// перестраивает блоки при изменении размеров окна
+    isAnimated: true,
+// анимируем перестроение блоков
+          animationOptions: { 
+        queue: false, 
+        duration: 500 
+    }
+// опции анимации - очередь и продолжительность анимации
+}); 
+
+$('.hamburger').click(function(){
+   $('nav .menu').toggle('fast');
+   $(this).toggleClass("is-active");
+   $('html').toggleClass("no-scroll");
+});
+
+if ($(".someclass")[0]){
+   $('body').addClass('blog_bg');
+} else {
+    // Do something if class does not exist
+}
+
+
+
+  $('.main_blockslider_list').slick({
+      infinite: true,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      dots: true,
+      arrows: false
+
+  });
+ /* $('.main_blockpartners_list').slick({
+      infinite: true,
+      slidesToShow: 5,
+      slidesToScroll: 1,
+      dots: false,
+      arrows: false
+
+  });*/
+});    
+</script>
+</body>
+</html> 
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+
+Served from: magecloud.agency @ 2020-03-19 21:28:23 by W3 Total Cache
+-->
