@@ -12,17 +12,15 @@ $check_list=[
     'skin/frontend',//Magento1
     'media',//Magento1
 ];
-function get_web($urls){
-    global $websites;
+$websites = [];
+function get_web($urls, $websites){
     $urls_download = 0;
     $a = 0;
-    $websites = [];
     for ($i=0; $i < sizeof($urls); $i++){
         $websites[$a] = file_get_contents($urls[$urls_download]);
         $a++;
         $urls_download++;
     }
-    return $websites;
 }
 
 
@@ -48,6 +46,6 @@ function check_web($websites, $check_list){
     }
 }
 
-get_web($urls);
+get_web($urls, $websites);
 check_web($websites, $check_list);
 ?>
