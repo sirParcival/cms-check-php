@@ -1,20 +1,53 @@
 <?php 
 
-header('Content-Type: text/csv');
-header('Content-Disposition: attachment; filename="table.csv"');
 
-$user_CSV[0] = array('first_name', 'last_name', 'age');
+$urls = [
+    'https://magecloud.agency/',
+    'http://insulationstop.com/',
+    'https://shine.org.ua/',
+    ];
 
-// very simple to increment with i++ if looping through a database result 
-$user_CSV[1] = array('Quentin', 'Del Viento', 34);
-$user_CSV[2] = array('Antoine', 'Del Torro', 55);
-$user_CSV[3] = array('Arthur', 'Vincente', 15);
-
-$fp = fopen('php://output', 'wb');
-foreach ($user_CSV as $line) {
-    // though CSV stands for "comma separated value"
-    // in many countries (including France) separator is ";"
-    fputcsv($fp, $line, ',');
+$check_list=[
+    "wp-content",
+    'skin/frontend',//Magento1
+    'media',//Magento1
+];
+function get_web($urls){
+    global $websites;
+    $urls_download = 0;
+    $a = 0;
+    $websites = [];
+    for ($i=0; $i < sizeof($urls); $i++){
+        $websites[$a] = file_get_contents($urls[$urls_download]);
+        $a++;
+        $urls_download++;
+    }
+    return $websites;
 }
-fclose($fp);
+
+
+function check_web($websites, $check_list){
+    $el_web_id = 0;
+    $i = 1;
+    while ($i <= sizeof($websites)) {
+        if(strpos($websites[$el_web_id], $check_list[0])) {
+            echo 'CMS WORDPRESS<br>';
+            $el_web_id++;
+        }
+        elseif(strpos($websites[$el_web_id], $check_list[1]) || strpos($websites[$el_web_id], $check_list[2])) {
+            echo 'CMS MAGENTO<br>';
+            $el_web_id++;
+        }
+
+        else{
+            echo 'CMS NO<br>';
+            $el_web_id++;
+            $el_check_id++;
+        }
+    $i++;
+    }
+}
+
+get_web($urls);
+check_web($websites, $check_list);
 ?>
